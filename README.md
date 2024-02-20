@@ -20,17 +20,18 @@ https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md
 
 output:
 
-<img width="616" alt="Screenshot 2024-02-20 102300" src="https://github.com/Meenajayaraj/task-3/assets/154115927/28fd8d8a-e0a3-4fd9-aa34-be05b06710d3">
+<img width="379" alt="Screenshot 2024-02-20 092201mm" src="https://github.com/Meenajayaraj/task-3/assets/154115927/8fddc252-ec82-4ada-8542-e886cb73e996">
 
 
 Q.3 Write a “person” class to hold all the details
 
 output:
 
-<img width="373" alt="Screenshot 2024-02-20 104336" src="https://github.com/Meenajayaraj/task-3/assets/154115927/fc0f0505-03eb-43ae-8876-6a729e5d85b0">
+<img width="616" alt="Screenshot 2024-02-20 102300" src="https://github.com/Meenajayaraj/task-3/assets/154115927/28fd8d8a-e0a3-4fd9-aa34-be05b06710d3">
 
 
 Q.4 write a class to calculate the Uber price.
 
 output:
 
+<img width="373" alt="Screenshot 2024-02-20 104336" src="https://github.com/Meenajayaraj/task-3/assets/154115927/fc0f0505-03eb-43ae-8876-6a729e5d85b0">
